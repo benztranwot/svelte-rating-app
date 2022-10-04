@@ -11,6 +11,7 @@ A simple rating web application built with svelte.
 ## Tech stack
 
 - [Svelte](https://svelte.dev/)
+- [Vite](https://vitejs.dev/)
 
 ## Show your support
 
